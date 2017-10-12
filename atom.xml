@@ -6,7 +6,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-12T01:08:42.851Z</updated>
+  <updated>2017-10-12T08:43:35.499Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myfirstblog</title>
+    <link href="http://yoursite.com/2017/10/12/myfirstblog/"/>
+    <id>http://yoursite.com/2017/10/12/myfirstblog/</id>
+    <published>2017-10-12T03:07:30.000Z</published>
+    <updated>2017-10-12T08:43:35.499Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="MyFirstText"><a href="#MyFirstText" class="headerlink" title="MyFirstText"></a>MyFirstText</h1><p>This my first text on my first blog.So I am exciting about<br>this thing.</p><hr><h1 id="Unordered-list"><a href="#Unordered-list" class="headerlink" title="Unordered list"></a>Unordered list</h1><ul><li>the first one</li><li>the second one</li><li>the third one</li></ul><h1 id="ordered-list"><a href="#ordered-list" class="headerlink" title="ordered list"></a>ordered list</h1><ol><li>the first one</li><li>the second one</li><li>the third one</li></ol><blockquote><p>this is an example of references</p></blockquote><h1 id="insert-link"><a href="#insert-link" class="headerlink" title="insert link"></a>insert link</h1><p><a href="http://www.baidu.com" target="_blank" rel="external">Baidu</a></p><h1 id="insert-image"><a href="#insert-image" class="headerlink" title="insert image"></a>insert image</h1><p><img src="http://mouapp.com/Mou_128.png" alt="Mou icon"></p><h1 id="Bold-and-Italic"><a href="#Bold-and-Italic" class="headerlink" title="Bold and Italic"></a>Bold and Italic</h1><p><strong>这是粗体</strong>  <em>这是斜体</em></p><h1 id="table"><a href="#table" class="headerlink" title="table"></a>table</h1><table><thead><tr><th style="text-align:left">Name</th><th style="text-align:left">Password</th></tr></thead><tbody><tr><td style="text-align:left">xiaoyu</td><td style="text-align:left">xiaobing</td></tr><tr><td style="text-align:left">xiaobing</td><td style="text-align:left">xiaoyu</td></tr></tbody></table><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">public class HelloWorld &#123;</div><div class="line">    public static void main(String[] args) &#123;</div><div class="line">      System.out.println(&quot;Hello,World&quot;);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;MyFirstText&quot;&gt;&lt;a href=&quot;#MyFirstText&quot; class=&quot;headerlink&quot; title=&quot;MyFirstText&quot;&gt;&lt;/a&gt;MyFirstText&lt;/h1&gt;&lt;p&gt;This my first text on my first blo
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="http://yoursite.com/tags/other/"/>
+    
+  </entry>
   
   <entry>
     <title>辨析 Sass 中的 Map 和 List</title>
